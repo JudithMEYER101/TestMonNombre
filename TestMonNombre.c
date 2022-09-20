@@ -15,7 +15,7 @@ int	main(void)
 	randomnumber = rand() % 100;
 	printf("\nHello and welcome to : PLUS OU MOINS!!!\n");
 	printf("Je pense actuellement à un nombre.\n");
-	printf("Sauras-tu le devinez en moins de 10 tentatives?\n");
+	printf("Sauras-tu le deviner en moins de 10 tentatives?\n");
 	printf("Tu peux commencer à chercher ;)\n\n");
 	while (d <= 10)
 	{
